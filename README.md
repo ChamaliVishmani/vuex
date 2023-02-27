@@ -1,3 +1,4 @@
+HI
 # Vuex
 
 [![npm](https://img.shields.io/npm/v/vuex.svg)](https://npmjs.com/package/vuex)
